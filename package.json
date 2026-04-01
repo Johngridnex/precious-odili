@@ -1,9 +1,0 @@
-{
-  "name": "precious-portfolio",
-  "version": "1.0.0",
-  "description": "Static portfolio for Precious Odili",
-  "main": "index.html",
-  "scripts": {
-    "start": "echo 'No build step needed' && exit 0"
-  }
-}
